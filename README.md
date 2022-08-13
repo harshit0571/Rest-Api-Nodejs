@@ -3,7 +3,7 @@
 
 ## Technical Stack
 
-- Nodejs , express, mogngodb
+- Nodejs , express, mongodb
 - Docker
 
 ## How it works?
