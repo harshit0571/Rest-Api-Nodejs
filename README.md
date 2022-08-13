@@ -1,15 +1,41 @@
-# Node js restfull api
-backend to get , delete , create and update subscribers
+# How to Build Rest Api using Nodejs and Docker
 
-## setup
-- git clone
-- cd Rest-Api-Nodejs
-- npm i
--nodemon server.js
 
-## setup with docker
--cd Rest-Api-Nodejs
--docker build -t rest .
+## Technical Stack
 
--docker run -t -p 3000:3000 rest
+- Nodejs , express, mogngodb
+- Docker
+
+## How it works?
+
+it is a rest api that can create , update , delete and list all the subscribers
+
+## Prerequisite
+
+- Install Docker
+
+## Step1 - Clone the repository
+
+```
+ git clone https://github.com/open-source-chandigarh/cryptotracker
+```
+
+## Step2 - Change directory to Rest-Api-Nodejs
+
+```
+ cd Rest-Api-Nodejs
+```
+
+## Step3 - Create docker image
+
+```
+docker build -t rest .
+```
+
+## Step4 - Run it on server
+
+```
+ docker run -p 3000:3000 rest
+```
+
 
