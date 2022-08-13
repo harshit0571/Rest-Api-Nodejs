@@ -17,7 +17,7 @@ it is a rest api that can create , update , delete and list all the subscribers
 ## Step1 - Clone the repository
 
 ```
- git clone https://github.com/open-source-chandigarh/cryptotracker
+ git clone https://github.com/harshit0571/Rest-Api-Nodejs.git
 ```
 
 ## Step2 - Change directory to Rest-Api-Nodejs
