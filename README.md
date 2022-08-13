@@ -10,5 +10,6 @@ backend to get , delete , create and update subscribers
 ## setup with docker
 -cd Rest-Api-Nodejs
 -docker build -t rest .
+
 -docker run -t -p 3000:3000 rest
 
