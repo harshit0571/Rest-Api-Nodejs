@@ -1,18 +1,20 @@
-# How to Build Rest Api using Nodejs and Docker
+# How to Build RESTAPI using Node, MongoDB and Docker
 
 
 ## Technical Stack
 
-- Nodejs , express, mongodb
+- Nodejs
+- Express
+- MongoDB
 - Docker
 
 ## How it works?
 
-it is a rest api that can create , update , delete and list all the subscribers
+It is a REST API that creates , updates , delete and list all the subscribers
 
 ## Prerequisite
 
-- Install Docker
+- Install Docker Desktop's
 
 ## Step1 - Clone the repository
 
