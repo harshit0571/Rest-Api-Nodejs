@@ -13,7 +13,7 @@
 It is a REST API that creates , updates , delete and list all the subscribers
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/62325935/184538869-f0eba634-7b21-447e-99ec-984d0984c9f3.jpeg" width="350" title="hover text">
+  <img src="https://user-images.githubusercontent.com/62325935/184538869-f0eba634-7b21-447e-99ec-984d0984c9f3.jpeg" title="hover text">
 </p>
 
 ## Prerequisite
